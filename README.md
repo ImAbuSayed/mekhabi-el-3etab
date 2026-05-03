@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mekhabi El 3etab |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-el-3etab/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
