@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين قلبي يناديك
+> في صمت الليل روحي تلاقيك
+> بين الأحلام طيفك يداريني
+> نبض الأشواق دايما يوديني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
