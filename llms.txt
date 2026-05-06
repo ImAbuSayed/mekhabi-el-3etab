@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-el-3etab/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Mekhabi El 3etab](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Mekhabi El 3etab](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
